@@ -1,6 +1,6 @@
 # lista_tarefa
 
-A new Flutter project.
+Projeto de Utilização do salvamento de dados no dispositivo.
 
 ## Getting Started
 
